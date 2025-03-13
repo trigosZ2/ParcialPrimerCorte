@@ -1,0 +1,17 @@
+
+body{
+	background-color: lightblue;
+}
+.coloresRGB{
+	color: rgb(83, 235, 21  / 1.0);
+}
+.cambiaColor{
+	color: orange;
+}
+.colorUnico{
+	background-color: greenyellow;
+}
+.divRGBA{
+	width: 50%;
+	background-color: rgba(241, 10, 10, 1.0);
+}
