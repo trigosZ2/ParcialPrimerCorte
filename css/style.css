@@ -11,7 +11,4 @@ body{
 .colorUnico{
 	background-color: greenyellow;
 }
-.divRGBA{
-	width: 50%;
-	background-color: rgba(241, 10, 10, 1.0);
-}
+
